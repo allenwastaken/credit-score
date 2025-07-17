@@ -4,7 +4,7 @@ This project assigns credit scores (0–1000) to DeFi wallets based on their his
 
 **Method Chosen**
 
-We use a **rule-based feature engineering approach** followed by a **weighted scoring model**. Each wallet's activity is analyzed across several dimensions, such as frequency, diversity, financial value, and risk behavior. These features are normalized and aggregated to compute a final score.
+Used a **rule-based feature engineering approach** followed by a **weighted scoring model**. Each wallet's activity is analyzed across several dimensions, such as frequency, diversity, financial value, and risk behavior. These features are normalized and aggregated to compute a final score.
 
 ## Architecture
 
